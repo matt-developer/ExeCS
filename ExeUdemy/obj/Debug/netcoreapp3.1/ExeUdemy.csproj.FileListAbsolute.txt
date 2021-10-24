@@ -1,0 +1,14 @@
+C:\Users\mateu\source\repos\ExeUdemy\ExeUdemy\bin\Debug\netcoreapp3.1\ExeUdemy.exe
+C:\Users\mateu\source\repos\ExeUdemy\ExeUdemy\bin\Debug\netcoreapp3.1\ExeUdemy.deps.json
+C:\Users\mateu\source\repos\ExeUdemy\ExeUdemy\bin\Debug\netcoreapp3.1\ExeUdemy.runtimeconfig.json
+C:\Users\mateu\source\repos\ExeUdemy\ExeUdemy\bin\Debug\netcoreapp3.1\ExeUdemy.runtimeconfig.dev.json
+C:\Users\mateu\source\repos\ExeUdemy\ExeUdemy\bin\Debug\netcoreapp3.1\ExeUdemy.dll
+C:\Users\mateu\source\repos\ExeUdemy\ExeUdemy\bin\Debug\netcoreapp3.1\ExeUdemy.pdb
+C:\Users\mateu\source\repos\ExeUdemy\ExeUdemy\obj\Debug\netcoreapp3.1\ExeUdemy.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\ExeUdemy\ExeUdemy\obj\Debug\netcoreapp3.1\ExeUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\source\repos\ExeUdemy\ExeUdemy\obj\Debug\netcoreapp3.1\ExeUdemy.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\ExeUdemy\ExeUdemy\obj\Debug\netcoreapp3.1\ExeUdemy.AssemblyInfo.cs
+C:\Users\mateu\source\repos\ExeUdemy\ExeUdemy\obj\Debug\netcoreapp3.1\ExeUdemy.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\ExeUdemy\ExeUdemy\obj\Debug\netcoreapp3.1\ExeUdemy.dll
+C:\Users\mateu\source\repos\ExeUdemy\ExeUdemy\obj\Debug\netcoreapp3.1\ExeUdemy.pdb
+C:\Users\mateu\source\repos\ExeUdemy\ExeUdemy\obj\Debug\netcoreapp3.1\ExeUdemy.genruntimeconfig.cache
